@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# Things to do before running the weatherCheck app
+# Things to do before running the WeatherCheck app
 - #### create an account on https://openweathermap.org/
 - #### add your api key at line 24  :  https://github.com/sachin992/weatherCheck/blob/master/weatherCheck-main/public/js/main.js
 
