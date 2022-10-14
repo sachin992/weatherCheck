@@ -13,7 +13,7 @@
 <br>
 <br>
 
-# Steps to run the weatherCheck app:
+# Steps to run the WeatherCheck app:
 
 -   #### Clone this repository 
 -   ####  Then run *npm install command* to install the required packages.
